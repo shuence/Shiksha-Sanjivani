@@ -117,6 +117,34 @@
 - **Firebase**: Real-time database for secure data storage and instant updates.
 - **Google Cloud**: Scalable infrastructure for high availability and real-time performance.
 
+## 📊 Public Opinion
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <p>➡ Through our detailed surveys and field visits, we observed the critical need for a comprehensive solution to address dropout rates. Feedback from educational institutions revealed several areas for improvement, including enhanced tracking and personalized learning tools for students.</p>
+      <p>➡ The responses gathered also emphasized the importance of parental involvement and real-time progress tracking, both key features of Shiksha Sanjeevani.</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://i.ibb.co/GtVwpT6/Screenshot-2024-10-07-200258.png" alt="Image 2" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://i.ibb.co/tLBZTsy/Screenshot-2024-10-07-200311.png" alt="Image 3" style="width: 100%; height: auto;">  
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://i.ibb.co/28HRXj1/Screenshot-2024-10-07-200317.png" alt="Image 4" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://i.ibb.co/LtpmfHM/Screenshot-2024-10-07-200323.png" alt="Image 1" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## 🔄 **How to Use**
