@@ -36,73 +36,73 @@
 <table style="width: 100%;">
   <tr>
     <td align="center" width="25%">
-      <img src="https://www.imghippo.com/i/gMlO91728592276.jpg" width="120"/><br>
+      <img src="https://i.ibb.co/4fp3btX/sign-up.jpg" width="120"/><br>
       <b>Home Screen</b><br>
       Displays the Shiksha Sanjeevani dashboard, providing access to all core features.
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/120" width="120"/><br>
+      <img src="https://i.ibb.co/PNd1FKp/2.jpg" width="120"/><br>
       <b>Smart PAT Attendance System</b><br>
       Allows teachers to quickly mark student attendance using a smart, easy-to-use interface.
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/120" width="120"/><br>
+      <img src="https://i.ibb.co/PWP8NWd/sign-in-2.jpg" width="120"/><br>
       <b>Chatbot Attendance</b><br>
       Select the class, and a list of students with their PRNs appears. Mark students present or absent with just a click.
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/120" width="120"/><br>
+      <img src="https://i.ibb.co/mt5XxXh/4.jpg" width="120"/><br>
       <b>BOT Store</b><br>
       A collection of small in-built educational apps to enhance student learning.
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/120" width="120"/><br>
+      <img src="https://i.ibb.co/F618Q93/sign-in-4.jpg" width="120"/><br>
       <b>Smart QR Code</b><br>
       Scan the QR code to access learning content instantly.
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/120" width="120"/><br>
+      <img src="https://i.ibb.co/PgLVtKk/sign-in.jpg" width="120"/><br>
       <b>Digital Class</b><br>
       Select grade and subject to access a wide range of learning materials.
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/120" width="120"/><br>
+      <img src="https://i.ibb.co/sqYjhK6/sign-in-1.jpg" width="120"/><br>
       <b>Multilingual Medium</b><br>
       Support for multiple languages, making content accessible for all students.
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/120" width="120"/><br>
+      <img src="https://i.ibb.co/5RfWgMc/sign-in-2.jpg" width="120"/><br>
       <b>Video Content</b><br>
       Watch video lectures for various subjects.
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/120" width="120"/><br>
+      <img src="https://i.ibb.co/jvS8Bm6/sign-in-3.jpg" width="120"/><br>
       <b>Select Grade & Access Content</b><br>
       Choose your grade to access topic-specific learning materials.
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/120" width="120"/><br>
+      <img src="https://i.ibb.co/x23FYFP/sign-in-4.jpg" width="120"/><br>
       <b>Competition Zone</b><br>
       Participate in quizzes, track progress, and earn certificates.
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/120" width="120"/><br>
+      <img src="https://i.ibb.co/9HFNX25/sign-in-5.jpg" width="120"/><br>
       <b>Mythology & Popular Content</b><br>
       Explore educational stories, myths, and historic tales.
     </td>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/120" width="120"/><br>
+      <img src="https://i.ibb.co/B3r7wk2/sign-in-6.jpg" width="120"/><br>
       <b>Post Panel</b><br>
       Get live updates, news, and insights into various educational topics.
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://via.placeholder.com/120" width="120"/><br>
+      <img src="https://i.ibb.co/j4SfNkX/6.png" width="120"/><br>
       <b>User Account</b><br>
       Manage your profile, view activities, and track your learning journey.
     </td>
